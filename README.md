@@ -20,3 +20,5 @@ sub-headding
 __italic__
 
 _italic_
+
+*italic*
