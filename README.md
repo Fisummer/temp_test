@@ -1,9 +1,10 @@
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
+<table>
+  <tr>
+    <th>Fruit</th>
+    <td>Banana</td>
+  </tr>
+  <tr>
+    <th>Vegetable</th>
+    <td>Carrot</td>
+  </tr>
+</table>
