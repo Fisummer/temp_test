@@ -13,3 +13,4 @@ sub-headding
 
 ~~strikethrough~~
 ~~strikethroughwithtouend
+~test~
