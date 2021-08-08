@@ -18,3 +18,5 @@ sub-headding
 --italic--
 **bold** text
 __italic__
+
+_italic_
