@@ -14,3 +14,5 @@ sub-headding
 ~~strikethrough~~
 ~~strikethroughwithtouend
 ~test~
+
+--italic--
