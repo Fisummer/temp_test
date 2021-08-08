@@ -31,3 +31,11 @@ _italic_
 the website [baidu](https://www.baidu.com)
 
 >you called this is quoting?
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
