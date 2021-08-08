@@ -51,3 +51,6 @@ def foo():
 def foo():
     if not bar:
         return True
+        
+-[x] test
+-[] new test
