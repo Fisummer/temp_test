@@ -16,3 +16,4 @@ sub-headding
 ~test~
 
 --italic--
+**bold** text
