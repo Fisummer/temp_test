@@ -20,5 +20,7 @@ sub-headding
 __italic__
 
 _italic_
+_italic_
 
 *italic*
+ `monospace font test      `
