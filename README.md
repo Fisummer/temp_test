@@ -24,3 +24,7 @@ _italic_
 
 *italic*
  `monospace font test      `
+ 
+ horizontal rule:
+ ---
+ hellow
