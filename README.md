@@ -1,4 +1,4 @@
-OpenCore Table
---
-col one | col two |
---
+OpenCore Tables
+----------------
+col a | col b
+col c | col d
