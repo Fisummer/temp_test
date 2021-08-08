@@ -11,3 +11,4 @@ headding
 sub-headding
 -------------
 
+~~strikethrough~~
