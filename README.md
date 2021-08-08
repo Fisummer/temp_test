@@ -46,3 +46,8 @@ test four space programming syntax
 def foo():
     if bar:
         return false
+        
+
+def foo():
+    if not bar:
+        return True
