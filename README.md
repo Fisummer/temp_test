@@ -12,3 +12,4 @@ sub-headding
 -------------
 
 ~~strikethrough~~
+~~strikethroughwithtouend
